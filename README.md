@@ -1,12 +1,12 @@
 # TecMilenio-Evidencia_Final
 Repositorio creado para la entrega final de la evidencia
 
-Instalación y configuración  
+##Instalación y configuración  
 Proximamente  
-Uso del programa  
+##Uso del programa  
 Proximamente  
-Créditos  
+##Créditos  
 Proximamente  
-Licencia  
+##Licencia  
 Proximamente  
 
