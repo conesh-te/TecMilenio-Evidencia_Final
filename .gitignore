@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Ignore swap filea
+*.swp
+
 # Log file
 *.log
 
@@ -18,7 +21,14 @@
 *.zip
 *.tar.gz
 *.rar
+/build/
+/dist/
+/nbproject/private/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Netbeans files
+/nbworkspace/
+*.mtj.tmp/
